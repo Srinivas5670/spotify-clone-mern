@@ -125,7 +125,7 @@ function Navbar() {
                             focus:ring-white
                         "
                     >
-                        N
+                        S
                     </button>
 
                 </div>
